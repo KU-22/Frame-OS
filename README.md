@@ -1,2 +1,2 @@
-# Frame-OS
- The web 'os' for the frame project
+# FrameOS
+ Weather for pic frame and other stuff
